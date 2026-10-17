@@ -1,0 +1,10 @@
+{
+	"name": "LSADLS",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://sacaresynbatch02.dfs.core.windows.net/"
+		}
+	}
+}
